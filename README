@@ -1,0 +1,7 @@
+Reads the mbox file that is specified on the command line.
+
+Requires gtkmm to be installed in order to build.
+
+Displays the From, Subject, and Date in the upper window and when double-clicked
+it displays the html body of the message in the lower pane. Currently, sorting
+does not work as intended.
